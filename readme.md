@@ -38,3 +38,9 @@ You can explore the API documentation using Swagger UI:
   "created_at": "2024-02-29T12:00:00Z",
   "updated_at": "2024-02-29T12:00:00Z"
 }
+```
+
+## Getting Started
+
+- Create a Python virtual environment.
+``` python -m venv env ```
