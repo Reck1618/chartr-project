@@ -43,4 +43,6 @@ You can explore the API documentation using Swagger UI:
 ## Getting Started
 
 - Create a Python virtual environment.
-``` python -m venv env ```
+```
+python -m venv env
+```
