@@ -91,4 +91,5 @@ python manage.py test
 
 ## Additional Information
 - Authentication: This API does not require authentication.
+- User Management: This API does not support user management.
 
