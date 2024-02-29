@@ -65,7 +65,8 @@ python manage.py runserver
 ```
 - Access the API
   - you can now access the API at 'http://localhost:8000/api/v1/notes/'
-  - if you access localhost:8000 it will redirect to the API
+  - if you access localhost:8000 it will redirect to - 'http://localhost:8000/api/v1/notes/'
+  - you can also use swagger endpoints to try the api **effectly** - 'http://localhost:8000/swagger/'
 
 ## Error Handling
 - The API returns appropriate HTTP status codes for different types of errors.
