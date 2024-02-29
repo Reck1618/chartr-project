@@ -49,7 +49,7 @@ python -m venv env
 ```
 - Activate the virtual environment
 ```
-source env/bin/activate 
+source env/bin/activate
 ```
 - Install the Dependencies.
 ```
@@ -81,7 +81,7 @@ python manage.py test
 ## Production Environment
 - This API is not production-ready and is only suitable for the development environment.
 - You can configure the production environment according to your needs - [SET UP PRODUCTION ENVIRONMENT](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
-  
+
 ## Deployment
 - Choose your preferred deployment method (e.g., Heroku, AWS, etc.).
 - Configure your deployment environment.
