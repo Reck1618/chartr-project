@@ -20,7 +20,7 @@ This is a simple note-taking API built using Django and Django REST Framework. I
 
 You can explore the API documentation using Swagger UI:
 
-- **URL**: [Swagger Documentation](http://localhost:8000/swagger/)
+- **URL**: 'http://localhost:8000/swagger/'
 - **Description**: Swagger UI provides interactive documentation for exploring the endpoints and testing the API directly from your browser.
 
 ## Request and Response Formats
@@ -80,14 +80,14 @@ python manage.py test
 
 ## Production Environment
 - This API is not production-ready and is only suitable for the development environment.
-- You can configure the production environment according to your needs **URL** [SET UP PRODUCTION ENVIRONMENT](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
+- You can configure the production environment according to your needs - [SET UP PRODUCTION ENVIRONMENT](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Deployment)
   
 ## Deployment
 - Choose your preferred deployment method (e.g., Heroku, AWS, etc.).
 - Configure your deployment environment.
 - Deploy your Django project according to the platform-specific instructions.
 - Make sure to set up necessary environment variables, database configurations, and any other settings required for deployment.
-- For more help **URL** [Deploy Django](https://docs.djangoproject.com/en/5.0/howto/deployment/)
+- For more help - [Deploy Django](https://docs.djangoproject.com/en/5.0/howto/deployment/)
 
 ## Additional Information
 - Authentication: This API does not require authentication.
