@@ -40,9 +40,14 @@ You can explore the API documentation using Swagger UI:
 }
 ```
 
-## Getting Started
+## Getting Started On Local
 
+- Clone the repository.
 - Create a Python virtual environment.
 ```
 python -m venv env
+```
+- Activate the virtual environment
+```
+source env/bin/activate #linux
 ```
